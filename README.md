@@ -17,6 +17,7 @@ Este proyecto consiste en la implementación de una estación de carga solar par
     
 ### OPTIMIZADOR
 - **Modelo:** [TS4-A-O TIGO](https://www.obramat.es/optimizador-ts4-a-o-tigo-10974712.html)
+- **Descripción:** Mejora el rendimiento de los paneles solares, 
 - **Especificaciones:**
   - Potencia: 700W por panel
   - Rango de voltaje: 16V - 80V
@@ -38,7 +39,7 @@ Este proyecto consiste en la implementación de una estación de carga solar par
 - **Especificaciones:**
   - Potencia máxima: 20000W
   - Potencia útil en continuo: 7000W
-  - Voltaje de entrada: 12V/24V/48V/72V en mi equipo 72V. S20 Litio.
+  - Voltaje de entrada: 12V/24V/48V/72V en el equipo 72V. S20 Litio.
   - Voltaje de salida: 220V/240V AC
 
 ### Controlador Solar MPPT
@@ -46,8 +47,8 @@ Este proyecto consiste en la implementación de una estación de carga solar par
 - **Descripción:** Maximiza la eficiencia de los paneles solares ajustando constantemente la carga para obtener la máxima potencia posible.
 - **Especificaciones:**
   - Voltaje de entrada máximo PV: 230V
-  - Voltaje de batería: 12V/24V/36V/48V/72V/84V/96V
-  - Corriente de carga: 60A/80A/100A
+  - Voltaje de batería: 12V/24V/36V/48V/72V/84V/96V (72V. S20 Litio).
+  - Corriente de carga: 60A/80A/100A (modelo 80A)
 
 ### Baterías de Respaldo
 - **Descripción:** Baterías de iones de litio utilizadas para almacenar la energía generada por los paneles solares.
