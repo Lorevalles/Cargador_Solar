@@ -8,56 +8,80 @@ Este proyecto consiste en la implementación de una estación de carga solar par
 ## Componentes Principales
 
 ### Paneles Solares
+**Modelo:** [PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
 - **Descripción:** Paneles solares fotovoltaicos utilizados para captar la energía del sol y convertirla en electricidad.
 - **Especificaciones:**
   - Potencia: 550W por panel
   - Voltaje de salida: 55V
   - Intensidad (Isc) estimada: 14A
-  - [PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
+    
+### OPTIMIZADOR
+- **Modelo:** [TS4-A-O TIGO](https://www.obramat.es/optimizador-ts4-a-o-tigo-10974712.html)
+- **Especificaciones:**
+  - Potencia: 700W por panel
+  - Rango de voltaje: 16V - 80V
+  - Corriente máxima: 15A
+  - Potencia máxima: 700W
 
+### BMS 
+- **Modelo:** [QUCC 3.7V 200A UART485CAN 6-21S](https://es.aliexpress.com/item/1005004981652594.html?spm=a2g0o.order_list.order_list_main.144.2631194dYLNt67&gatewayAdapt=glo2esp)
+- **Descripción:** Protección de la batería.
+- **Especificaciones:**
+  - Series de batería: 6-21
+  - Intensidad máxima: 200A
+  - Voltaje de entrada: 12V/24V/48V/72V
+  - Voltaje de salida: 220V/240V AC
+  
 ### Inversor de Onda Senoidal Pura
 - **Modelo:** [JIANSHUN Pure Sine Wave Solar Inverter 20000W](https://amzn.eu/d/04rNMctd)
 - **Descripción:** Convierte la corriente continua (DC) de los paneles solares y baterías en corriente alterna (AC) para cargar el vehículo y otros dispositivos eléctricos.
 - **Especificaciones:**
   - Potencia máxima: 20000W
   - Potencia útil en continuo: 7000W
-  - Voltaje de entrada: 12V/24V/48V/74/96
+  - Voltaje de entrada: 12V/24V/48V/72V
   - Voltaje de salida: 220V/240V AC
 
 ### Controlador Solar MPPT
-- **Modelo:** MPPT Solar Controller
+- **Modelo:** [MPPT Solar Controller](https://es.aliexpress.com/item/1005006140709151.html?spm=a2g0o.order_list.order_list_main.5.2631194dYLNt67&gatewayAdapt=glo2esp)
 - **Descripción:** Maximiza la eficiencia de los paneles solares ajustando constantemente la carga para obtener la máxima potencia posible.
 - **Especificaciones:**
-  - Voltaje de entrada: 12V/24V/36V/48V/72V/84V/96V
-  - Corriente de carga: 60A
+  - Voltaje de entrada máximo PV: 230V
+  - Voltaje de batería: 12V/24V/36V/48V/72V/84V/96V
+  - Corriente de carga: 60A/80A/100A
 
 ### Baterías de Respaldo
 - **Descripción:** Baterías de iones de litio utilizadas para almacenar la energía generada por los paneles solares.
 - **Especificaciones:**
-  - Capacidad: 21.6 kWh
-  - Voltaje: 96V
+  - Capacidad: 18 kWh
+  - Voltaje: 72V
 
 ## Procedimiento de Instalación
 
-1. **Montaje de los Paneles Solares:**
-   - Instalar los paneles solares en una ubicación con máxima exposición solar.
-   - Conectar los paneles en serie/paralelo según el voltaje y la capacidad requerida.
+### 1. Instalación de los Paneles Solares
+- **Ubicación:** Seleccione una ubicación con máxima exposición solar durante el día.
+- **Montaje:** Fije los paneles solares en un ángulo óptimo para captar la mayor cantidad de luz solar.
+- **Conexión:** Conecte los paneles solares en serie o paralelo según el diseño del sistema.
 
-2. **Conexión del Inversor:**
-   - Conectar el inversor a la salida de los paneles solares.
-   - Asegurar que el inversor esté correctamente configurado para la potencia de entrada y salida.
+### 2. Conexión del OPTIMIZADOR
+- **Montaje:** Instale el optimizador en la parte trasera de cada panel solar.
+- **Conexión:** Conecte el optimizador al panel solar y al sistema de cableado del controlador MPPT.
 
-3. **Instalación del Controlador MPPT:**
-   - Conectar el controlador MPPT entre los paneles solares y las baterías de respaldo.
-   - Configurar el controlador para optimizar la carga de las baterías.
+### 3. Instalación del BMS
+- **Montaje:** Monte el BMS cerca de las baterías de respaldo.
+- **Conexión:** Conecte el BMS a las baterías siguiendo las instrucciones del fabricante para garantizar la correcta protección y gestión de las baterías.
 
-4. **Conexión de las Baterías de Respaldo:**
-   - Conectar las baterías de respaldo al controlador MPPT.
-   - Verificar que las conexiones sean seguras y estén bien aisladas.
+### 4. Instalación del Inversor de Onda Senoidal Pura
+- **Ubicación:** Coloque el inversor en un lugar ventilado para evitar el sobrecalentamiento.
+- **Conexión:** Conecte el inversor a las baterías y a la red eléctrica del vehículo.
 
-5. **Integración con el Vehículo:**
-   - Conectar el sistema de carga solar al puerto de carga del Toyota Prius.
-   - Asegurar que todos los componentes están funcionando correctamente antes de iniciar la carga.
+### 5. Conexión del Controlador Solar MPPT
+- **Montaje:** Instale el controlador MPPT en una ubicación segura y accesible.
+- **Conexión:** Conecte el controlador a los paneles solares y a las baterías para maximizar la eficiencia de carga.
+
+### 6. Configuración y Pruebas
+- **Configuración:** Configure todos los dispositivos según las especificaciones del fabricante.
+- **Pruebas:** Realice pruebas iniciales para asegurarse de que todos los componentes funcionen correctamente y que el sistema esté cargando las baterías del vehículo de manera eficiente.
+
 
 ## Conclusión
 Este proyecto demuestra la viabilidad de utilizar energía solar para cargar vehículos híbridos enchufables, promoviendo el uso de energías renovables y reduciendo la dependencia de combustibles fósiles.
