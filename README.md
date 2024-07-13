@@ -38,7 +38,7 @@ Este proyecto consiste en la implementación de una estación de carga solar par
 - **Especificaciones:**
   - Potencia máxima: 20000W
   - Potencia útil en continuo: 7000W
-  - Voltaje de entrada: 12V/24V/48V/72V
+  - Voltaje de entrada: 12V/24V/48V/72V en mi equipo 72V. S20 Litio.
   - Voltaje de salida: 220V/240V AC
 
 ### Controlador Solar MPPT
