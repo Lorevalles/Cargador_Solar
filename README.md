@@ -24,6 +24,14 @@ Este proyecto consiste en la implementación de una estación de carga solar par
   - Corriente máxima: 15A
   - Potencia máxima: 700W
 
+### Disyuntor de corriente continua
+- **Modelo:** [DC MCB 63A](https://es.aliexpress.com/item/1005004593346679.html?spm=a2g0o.order_list.order_list_main.189.2631194dYLNt67&gatewayAdapt=glo2esp)
+- **Descripción:** Conjunto fotovoltaico de 500V, 2 entradas, 2 salidas.
+- **Especificaciones:**
+  - FUSIBLE: CC 4 1000V 15A
+  - Voltaje: 500V
+  - Protección: MCB de CC 2 P 1000V 63A de 2 piezas
+
 ### BMS 
 - **Modelo:** [QUCC QM-K621RUBL 3.7V 200A UART485CAN 6-21S](https://es.aliexpress.com/item/1005004981652594.html?spm=a2g0o.order_list.order_list_main.144.2631194dYLNt67&gatewayAdapt=glo2esp)
 - **Descripción:** Protección de la batería.
