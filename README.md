@@ -24,13 +24,13 @@ Este proyecto consiste en la implementación de una estación de carga solar par
   - Potencia máxima: 700W
 
 ### BMS 
-- **Modelo:** [QUCC 3.7V 200A UART485CAN 6-21S](https://es.aliexpress.com/item/1005004981652594.html?spm=a2g0o.order_list.order_list_main.144.2631194dYLNt67&gatewayAdapt=glo2esp)
+- **Modelo:** [QUCC QM-K621RUBL 3.7V 200A UART485CAN 6-21S](https://es.aliexpress.com/item/1005004981652594.html?spm=a2g0o.order_list.order_list_main.144.2631194dYLNt67&gatewayAdapt=glo2esp)
 - **Descripción:** Protección de la batería.
 - **Especificaciones:**
-  - Series de batería: 6-21
+  - Series de batería: 6S-21S
   - Intensidad máxima: 200A
-  - Voltaje de entrada: 12V/24V/48V/72V
-  - Voltaje de salida: 220V/240V AC
+  - Voltaje de entrada: 22V/76V
+  - Funcionalidades: Con NTC , bluetooth, balance, UART/RS485/CAN.
   
 ### Inversor de Onda Senoidal Pura
 - **Modelo:** [JIANSHUN Pure Sine Wave Solar Inverter 20000W](https://amzn.eu/d/04rNMctd)
