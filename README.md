@@ -9,10 +9,11 @@ Este proyecto consiste en la implementación de una estación de carga solar par
 
 ### Paneles Solares
 - **Descripción:** Paneles solares fotovoltaicos utilizados para captar la energía del sol y convertirla en electricidad.
-- **Especificaciones:** 
-  - Potencia: 200W por panel
-  - Voltaje de salida: 18V
-  - Eficiencia: 20%
+- **Especificaciones:**
+  - Potencia: 550W por panel
+  - Voltaje de salida: 55V
+  - Intensidad (Isc) estimada: 14A
+  - ![PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
 
 ### Inversor de Onda Senoidal Pura
 - **Modelo:** JIANSHUN Pure Sine Wave Solar Inverter 20000W
