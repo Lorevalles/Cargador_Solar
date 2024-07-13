@@ -13,7 +13,7 @@ Este proyecto consiste en la implementación de una estación de carga solar par
   - Potencia: 550W por panel
   - Voltaje de salida: 55V
   - Intensidad (Isc) estimada: 14A
-  - ![PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
+  - [PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
 
 ### Inversor de Onda Senoidal Pura
 - **Modelo:** JIANSHUN Pure Sine Wave Solar Inverter 20000W
