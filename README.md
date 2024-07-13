@@ -16,11 +16,12 @@ Este proyecto consiste en la implementación de una estación de carga solar par
   - [PANEL SOLAR 550W JA SOLAR MONO PERC HC JAM72S30 MR](https://www.obramat.es/panel-solar-465w-ja-solar-mono-perc-hc-25037434.html)
 
 ### Inversor de Onda Senoidal Pura
-- **Modelo:** JIANSHUN Pure Sine Wave Solar Inverter 20000W
+- **Modelo:** [JIANSHUN Pure Sine Wave Solar Inverter 20000W](https://amzn.eu/d/04rNMctd)
 - **Descripción:** Convierte la corriente continua (DC) de los paneles solares y baterías en corriente alterna (AC) para cargar el vehículo y otros dispositivos eléctricos.
 - **Especificaciones:**
   - Potencia máxima: 20000W
-  - Voltaje de entrada: 12V/24V/48V
+  - Potencia útil en continuo: 7000W
+  - Voltaje de entrada: 12V/24V/48V/74/96
   - Voltaje de salida: 220V/240V AC
 
 ### Controlador Solar MPPT
