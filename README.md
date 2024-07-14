@@ -27,6 +27,14 @@ Este proyecto se enfoca en la implementación de una estación de carga solar pa
 
 ### Disyuntor de corriente continua
 - **Modelo:** [DC MCB 63A](https://es.aliexpress.com/item/1005004593346679.html?spm=a2g0o.order_list.order_list_main.189.2631194dYLNt67&gatewayAdapt=glo2esp)
+- **Descripción:** Distribuidor doble de Corriente con Interruptor 16A 250V
+- **Especificaciones:**
+  - Circuitos: 2
+  - Voltaje: 250V
+  - Protección: IP54 doble magnetotermico-diferencial
+
+### Distribuidor de Corriente con doble Interruptor y diferncial
+- **Modelo:** [Carcasa IP54 2 circuitos](https://amzn.eu/d/0hfS8EAD)
 - **Descripción:** Conjunto fotovoltaico de 500V, 2 entradas, 2 salidas.
 - **Especificaciones:**
   - FUSIBLE: CC 4 1000V 15A
