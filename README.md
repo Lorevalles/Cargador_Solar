@@ -99,13 +99,16 @@ Este proyecto demuestra la viabilidad de utilizar energía solar para cargar veh
 ## Imágenes del Proyecto
 
 ### Sistema de Paneles Solares
-![Sistema de Paneles Solares](ruta/a/la/imagen/IMG_1881.JPG)
+![Sistema de Paneles Solares](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_1881.JPG)
 
 ### Inversor y Controlador Solar
-![Inversor y Controlador Solar](ruta/a/la/imagen/IMG_2094.JPG)
+![Inversor y Controlador Solar](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2094.JPG)
 
-### Instalación Completa
-![Instalación Completa](ruta/a/la/imagen/IMG_1899.JPG)
+### Instalación Completa interior
+![Instalación Completa](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2285.JPG)
 
-### Indicador de Potencia
-![Indicador de Potencia](ruta/a/la/imagen/IMG_2117.JPG)
+### Indicador de Potencia inversor
+![Indicador de Potencia](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2107.JPG)
+
+### Potencia procedente de las placas solares
+![Indicador de carga solar](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2292.PNG)
