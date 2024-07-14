@@ -59,6 +59,14 @@ Este proyecto se enfoca en la implementación de una estación de carga solar pa
   - Voltaje de batería: 12V/24V/36V/48V/72V/84V/96V (72V. S20 Litio).
   - Corriente de carga: 60A/80A/100A (modelo 80A)
 
+### Interruptor de circuito MCCB de CC 250V
+- **Modelo:** [CC 1P DC250V](https://es.aliexpress.com/item/1005004205157391.html?spm=a2g0o.order_list.order_list_main.239.2631194dYLNt67&gatewayAdapt=glo2esp)
+- **Descripción:** Protector de cortocircuito, interruptor de batería 200A
+- **Especificaciones:**
+  - Voltaje máximo: DC250V
+  - Número de polos: 1P
+  - Corriente de carga: 200A
+
 ### Baterías de Respaldo
 - **Descripción:** Baterías de iones de litio utilizadas para almacenar la energía generada por los paneles solares.
 - **Especificaciones:**
