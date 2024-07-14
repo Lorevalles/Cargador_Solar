@@ -131,3 +131,6 @@ Este proyecto demuestra la viabilidad de utilizar energía solar para cargar veh
 
 ### Cuadros entradas/salidas
 ![Panel de conexiones exteriores](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2287.JPG)
+
+### Posición de carga
+![Cargando simulación en el exterior](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Cargando-3.JPG)
