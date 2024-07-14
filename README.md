@@ -128,3 +128,6 @@ Este proyecto demuestra la viabilidad de utilizar energía solar para cargar veh
 
 ### Potencia procedente de las placas solares
 ![Indicador de carga solar](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2292.PNG)
+
+### Cuadros entradas/salidas
+![Panel de conexiones exteriores](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Reales/IMG_2287.JPG)
