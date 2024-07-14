@@ -1,6 +1,6 @@
 # Proyecto Prius: Estación de Carga Solar
 
-![Toyota Prius Gen 2 Plug-in Solar](https://github.com/Lorevalles/Cargador_Solar/blob/main/Cargando.JPG)
+![Toyota Prius Gen 2 Plug-in Solar](https://github.com/Lorevalles/Cargador_Solar/blob/main/Imagenes/Cargando.JPG)
 
 ## Introducción
 Este proyecto se enfoca en la implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable. Utilizando paneles solares y baterías de respaldo, el objetivo es suministrar energía limpia y renovable para la carga del vehículo.
