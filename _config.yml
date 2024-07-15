@@ -1,18 +1,18 @@
-title: Proyecto Prius: Estación de Carga Solar
-description: Implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable, utilizando paneles solares y baterías de respaldo para suministrar energía limpia y renovable.
-keywords: 
-  - estación de carga solar
-  - Toyota Prius
-  - híbrido enchufable
-  - energía solar
-  - paneles solares
-  - baterías de litio
-  - energía renovable
-  - sostenibilidad
-  - tecnología limpia
-  - cargadores solares
-  - vehículos eléctricos
-  - conversión de vehículos
+title: "Proyecto Prius: Estación de Carga Solar"
+description: "Implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable. Utilizando paneles solares y baterías de respaldo, suministramos energía limpia y renovable para la carga del vehículo."
+keywords:
+  - "Toyota Prius"
+  - "híbrido enchufable"
+  - "carga solar"
+  - "paneles solares"
+  - "energía renovable"
+  - "baterías de respaldo"
+  - "vehículos eléctricos"
+  - "proyectos de energía"
+  - "sistema de carga solar"
+  - "conversión de vehículos"
+  - "tecnología limpia"
+
 author: Lorenzo Valles
 url: "https://github.com/Lorevalles/Cargador_Solar"
 baseurl: "/"
