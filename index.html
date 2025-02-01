@@ -1,11 +1,25 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Video en GitHub Pages</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden; /* Evita barras de desplazamiento */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: black; /* Fondo negro para mejor presentación */
+        }
+        video {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+        }
+    </style>
     <script>
         function redirigir() {
             window.location.href = "https://github.com/Lorevalles/Cargador_Solar";
@@ -14,7 +28,7 @@
 </head>
 <body>
 
-    <video autoplay muted playsinline width="100%" onended="redirigir()">
+    <video id="video" autoplay muted playsinline onended="redirigir()">
         <source src="video.mp4" type="video/mp4">
         Tu navegador no soporta la reproducción de video.
     </video>
@@ -22,29 +36,4 @@
 </body>
 </html>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Video en GitHub Pages</title>
-</head>
-<body>
-
-    <video autoplay loop muted playsinline width="100%">
-        <source src="video.mp4" type="video/mp4">
-        Tu navegador no soporta la reproducción de video.
-    </video>
-
-</body>
-</html>
-
-git branch
-
-git checkout main
-
-git checkout main -- index.html
-git checkout gh-pages
-
-ls
 
